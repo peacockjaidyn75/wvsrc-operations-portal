@@ -1,5 +1,9 @@
 # WVSRC Operations Portal
 
+[Open the live portal](https://peacockjaidyn75.github.io/wvsrc-operations-portal/) · [GitHub repository](https://github.com/peacockjaidyn75/wvsrc-operations-portal)
+
+Published through GitHub Pages from **main / (root)** with HTTPS enforced.
+
 A complete, buildless operations portal for the West Virginia State Roleplay Community. Designed for GitHub Pages and a growing community of 200+ members. Version 1.0 contains proposed draft documentation and local practice tools, ready for leadership review.
 
 ## Features
@@ -72,4 +76,4 @@ Replace the small storage adapter in assets/js/app.js with an authenticated API.
 
 ## Validation
 
-Run `node tools/check.cjs` for structural, JSON, route, template, draft-status, and Major-rule checks. Browser verification is documented in [QA](docs/QA.md). Hosting in your actual GitHub account remains a deployment step; this delivery does not create a GitHub repository or publish a live site.
+Run `node tools/check.cjs` for structural, JSON, route, template, draft-status, and Major-rule checks. Browser verification is documented in [QA](docs/QA.md). The repository is published at the live URL above. See docs/QA.md for the deployment verification. All policy adoption and leadership placeholders remain drafts.
