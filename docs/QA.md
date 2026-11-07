@@ -1,6 +1,6 @@
 # Version 1.0 verification
 
-Verified November 7, 2026. Tests used fictional local examples only. The project is prepared for GitHub Pages; it has not been uploaded to a GitHub repository or deployed in a GitHub account.
+Verified November 7, 2026. Tests used fictional local examples only. The project was uploaded to [https://github.com/peacockjaidyn75/wvsrc-operations-portal](https://github.com/peacockjaidyn75/wvsrc-operations-portal) and deployed through GitHub Pages at [https://peacockjaidyn75.github.io/wvsrc-operations-portal/](https://peacockjaidyn75.github.io/wvsrc-operations-portal/).
 
 | Check | Result and evidence |
 |---|---|
@@ -31,6 +31,10 @@ Run `node tools/check.cjs` from the project folder. This verifies JSON parsing, 
 
 The local preview initially required a restart with permission to serve local connections. Native confirmation and print dialogs interrupted browser automation; they were observed and closed with native keyboard input. These did not reveal an application failure.
 
-## Remaining deployment verification
+## Live deployment verification
 
-After publishing, check the actual GitHub Pages URL, repository subpath asset loading, HTTPS clipboard access, and fresh-browser local storage. Shared records, authentication, real approvals, Discord publishing, and confidential evidence storage are outside this static version's capabilities.
+GitHub Pages was configured to deploy from **main / (root)** with HTTPS enforced. [Initial deployment run](https://github.com/peacockjaidyn75/wvsrc-operations-portal/actions/runs/42358805666) completed successfully for source commit 4d7ffcefe43daa049f7d236e6282c24db5ff1294. All 25 uploaded source files were compared with the tested local project; content matched, with only line-ending differences.
+
+On the live HTTPS site: dashboard, styling, content JSON and shield asset loaded under the repository subpath; an evidence search with the Policies filter produced six results; the direct Evidence Preservation link opened its policy; Staff Training Report copied to the clipboard; a checklist item survived reload and was then unchecked; and mobile navigation at 390 × 844 opened, navigated to Dashboard, and closed without horizontal overflow. The viewport override was reset afterward.
+
+Shared records, authentication, real approvals, Discord publishing, and confidential evidence storage remain outside this static version's capabilities. Leadership decisions and policy adoption remain unresolved as documented.
