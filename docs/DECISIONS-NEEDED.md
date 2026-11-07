@@ -1,0 +1,106 @@
+# Leadership decisions needed
+
+This inventory includes every distinct visible TBD token in the shipped content and interface. Repeated policy metadata applies to every policy individually. Draft text, promotion criteria, authority, rules, sanctions, and training standards require adoption; this project does not finalize them.
+
+Additional decisions: public publication scope for staff-facing material; legal/content ownership and software license; repository owner/name; actual hosting URL; approved Roblox/ER:LC rule references; authentication provider; role permissions; database and evidence storage provider; backups, audit and retention controls. No Discord invite or official contact has been invented.
+
+## Visible placeholders (98)
+
+- [ACCOUNTABILITY REVIEW PROCESS TBD] — `data/policies.json`
+- [ADMINISTRATION CONTACTS TBD] — `assets/js/app.js`
+- [ADMINISTRATION-DELEGATED SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [ADMINISTRATOR SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [APPEAL PROCESS TBD] — `data/policies.json`, `data/rules.json`
+- [APPEAL WINDOW TBD] — `data/policies.json`
+- [APPEALS RULE WORDING TBD] — `data/rules.json`
+- [APPOINTING AUTHORITY TBD] — `assets/js/app.js`, `data/ranks.json`
+- [APPOINTMENT PROCESS TBD] — `assets/js/app.js`
+- [APPROVAL EVIDENCE REQUIREMENTS TBD] — `assets/js/app.js`
+- [APPROVING AUTHORITY TBD] — `assets/js/app.js`, `data/discord.json`, `data/policies.json`
+- [APPROVING RANK TBD] — `data/policies.json`, `data/training.json`
+- [AUTHORITY LEVEL TBD] — `data/ranks.json`
+- [AUTHORIZATION MATRIX TBD] — `data/policies.json`
+- [CADET SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [CALL SIGN TBD] — `data/training.json`
+- [CAPTAIN SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [CATEGORY TBD] — `data/discord.json`
+- [CHANNEL NAME TBD] — `data/discord.json`
+- [COMMAND APPROVAL TBD] — `data/training.json`
+- [COMMAND AUTHORITY TBD] — `data/ranks.json`
+- [COMMUNITY_CONDUCT RULE WORDING TBD] — `data/rules.json`
+- [COMPLETION CRITERIA TBD] — `data/policies.json`
+- [COMPLETION STANDARD TBD] — `data/training.json`
+- [CONDUCT STANDARDS TBD] — `data/policies.json`
+- [CONFIDENTIALITY SCOPE TBD] — `data/policies.json`
+- [CORPORAL / FTO SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [CURRENT ER:LC SERVER RULES SOURCE TBD] — `assets/js/app.js`
+- [DISCIPLINE APPROVAL MATRIX TBD] — `assets/js/app.js`
+- [DISCORD INVITE TBD] — `assets/js/app.js`
+- [DUTY ASSIGNMENTS TBD] — `assets/js/app.js`
+- [EFFECTIVE DATE TBD] — `assets/js/app.js`, `data/policies.json`
+- [EMERGENCY AUTHORITY AND CONTACTS TBD] — `data/policies.json`
+- [EMERGENCY-SERVICE_SCENES RULE WORDING TBD] — `data/rules.json`
+- [ESCALATION CONTACTS TBD] — `assets/js/app.js`
+- [EVIDENCE RETENTION PERIOD TBD] — `assets/js/app.js`, `data/policies.json`
+- [Executive Leadership Rank TBD] — `data/ranks.json`
+- [EXECUTIVE OVERSIGHT SCOPE TBD] — `data/ranks.json`
+- [EXECUTIVE REPORTING LINES TBD] — `data/ranks.json`
+- [EXPLOITING RULE WORDING TBD] — `data/rules.json`
+- [FAIL_ROLEPLAY RULE WORDING TBD] — `data/rules.json`
+- [FTO AUTHORIZATION TBD] — `assets/js/app.js`, `data/ranks.json`
+- [GOVERNANCE ADOPTION TBD] — `data/policies.json`
+- [HANDBOOK OWNER TBD] — `assets/js/app.js`
+- [HARASSMENT RULE WORDING TBD] — `data/rules.json`
+- [INCIDENT RESPONSE OWNER TBD] — `docs/SECURITY.md`
+- [INVESTIGATION TIMEFRAMES TBD] — `data/policies.json`
+- [LAST UPDATED TBD] — `data/policies.json`
+- [LIEUTENANT SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [LOG LOCATION TBD] — `data/policies.json`
+- [MAJOR RESPONSIBILITIES TBD] — `assets/js/app.js`
+- [MANAGEMENT SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [METAGAMING RULE WORDING TBD] — `data/rules.json`
+- [MINIMUM TRAINING HOURS TBD] — `data/policies.json`, `data/training.json`
+- [MISCONDUCT REVIEW AUTHORITY TBD] — `data/policies.json`
+- [MODERATION RULE WORDING TBD] — `data/rules.json`
+- [MODERATOR SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [OFFICER SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [OFFICIAL ANNOUNCEMENTS TBD] — `assets/js/app.js`
+- [PASSING SCORE TBD] — `data/training.json`
+- [PASSING STANDARD TBD] — `data/policies.json`, `data/training.json`
+- [PENALTY STRUCTURE TBD] — `assets/js/app.js`, `data/rules.json`, `data/training.json`
+- [PERMISSION TBD] — `data/discord.json`, `data/policies.json`
+- [POLICY NUMBER TBD] — `data/policies.json`
+- [POLICY OWNER TBD] — `data/policies.json`
+- [PROBATION DURATION TBD] — `data/policies.json`
+- [PROMOTION REQUIREMENTS TBD] — `data/ranks.json`
+- [PURSUIT RESTRICTIONS TBD] — `data/rules.json`, `data/training.json`
+- [PURSUITS RULE WORDING TBD] — `data/rules.json`
+- [RANDOM_DEATHMATCH RULE WORDING TBD] — `data/rules.json`
+- [RANK RESTRICTIONS TBD] — `data/ranks.json`
+- [RECORD ACCESS AND RETENTION TBD] — `data/policies.json`
+- [RECUSAL AUTHORITY TBD] — `data/policies.json`
+- [REPORTING CONTACTS TBD] — `assets/js/app.js`, `data/policies.json`
+- [REQUIRED FIELD TRAINING TIME TBD] — `assets/js/app.js`, `data/training.json`
+- [RESPECT RULE WORDING TBD] — `data/rules.json`
+- [RESPONSE TARGET TBD] — `data/policies.json`
+- [REVIEW RIGHTS AND PROCESS TBD] — `data/policies.json`
+- [ROLE AUTHORITY AND APPROVAL LIMITS TBD] — `data/roles.json`
+- [ROLEPLAY_STANDARDS RULE WORDING TBD] — `data/rules.json`
+- [SECURITY CONTACT TBD] — `data/policies.json`, `docs/SECURITY.md`
+- [Senior Operations / Management Rank TBD] — `data/ranks.json`
+- [SERGEANT SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [SHIFT PROCEDURES TBD] — `assets/js/app.js`
+- [SOP NUMBERING TBD] — `assets/js/app.js`
+- [SOP OWNER TBD] — `assets/js/app.js`
+- [STAFF_IMPERSONATION RULE WORDING TBD] — `data/rules.json`
+- [SUPERVISORY SCOPE TBD] — `data/ranks.json`
+- [TICKETS RULE WORDING TBD] — `data/rules.json`
+- [TOPIC TBD] — `data/discord.json`
+- [TRAINING APPROVAL LIMITS TBD] — `data/ranks.json`
+- [TRAINING PHASES TBD] — `data/training.json`
+- [UNIFORM REQUIREMENTS TBD] — `data/training.json`
+- [VEHICLE REQUIREMENTS TBD] — `data/training.json`
+- [VEHICLE_CONDUCT RULE WORDING TBD] — `data/rules.json`
+- [VEHICLE_DEATHMATCH RULE WORDING TBD] — `data/rules.json`
+- [VERSION TBD] — `assets/js/app.js`, `data/policies.json`
+- [WVSRC-APPROVED 10-CODES TBD] — `data/training.json`
