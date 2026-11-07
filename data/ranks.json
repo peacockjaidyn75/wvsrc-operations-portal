@@ -1,0 +1,154 @@
+{
+  "majorNotice": "Major is an Administration-only appointment and is not part of standard training or promotional progression.",
+  "staff": [
+    {
+      "id": "staff-rank-0",
+      "title": "Community Owner / Director",
+      "purpose": "Proposed draft: Steward community direction and leadership accountability.",
+      "responsibilities": "Review governance proposals, appoint authorized leadership, and resolve executive escalations.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "[EXECUTIVE OVERSIGHT SCOPE TBD]",
+      "training": "Set training oversight expectations and review program ownership.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    },
+    {
+      "id": "staff-rank-1",
+      "title": "[Executive Leadership Rank TBD]",
+      "purpose": "Proposed draft: Provide executive oversight under a finalized leadership title.",
+      "responsibilities": "Coordinate senior leadership, review strategic risks, and route governance decisions.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "[EXECUTIVE REPORTING LINES TBD]",
+      "training": "Review training program effectiveness and leadership coaching.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    },
+    {
+      "id": "staff-rank-2",
+      "title": "[Senior Operations / Management Rank TBD]",
+      "purpose": "Proposed draft: Coordinate community operations above Administrator.",
+      "responsibilities": "Coordinate administrators, review operational consistency, and consolidate unresolved escalations.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "[MANAGEMENT SUPERVISORY SCOPE TBD]",
+      "training": "Oversee assigned trainers and review recurring training deficiencies.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    },
+    {
+      "id": "staff-rank-3",
+      "title": "Administrator",
+      "purpose": "Proposed draft: Support administrative decision review and consistent enforcement.",
+      "responsibilities": "Review assigned tickets, administrative logs, and escalated staff concerns.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "[ADMINISTRATOR SUPERVISORY SCOPE TBD]",
+      "training": "Coach Moderators and trainees where specifically authorized.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    },
+    {
+      "id": "staff-rank-4",
+      "title": "Moderator",
+      "purpose": "Proposed draft: Support day-to-day member moderation.",
+      "responsibilities": "Triage assigned tickets, gather context, document actions, and request approval for restricted decisions.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "[MODERATOR SUPERVISORY SCOPE TBD]",
+      "training": "Complete required training; mentor only with separate authorization.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    },
+    {
+      "id": "staff-rank-5",
+      "title": "Admin-in-Training",
+      "purpose": "Proposed draft: Develop administrative judgment under supervision.",
+      "responsibilities": "Practice ticket handling, evidence referencing, policy interpretation, and escalation with review.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "No independent supervisory assignment is implied. [SUPERVISORY SCOPE TBD]",
+      "training": "Complete assigned administrative practice and record corrective coaching.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    },
+    {
+      "id": "staff-rank-6",
+      "title": "Staff Trainee",
+      "purpose": "Proposed draft: Learn the community staff workflow through supervised practice.",
+      "responsibilities": "Observe approved supervisors, complete orientation and scenarios, and document training questions.",
+      "authority": "[AUTHORITY LEVEL TBD]",
+      "supervision": "No independent supervisory assignment is implied. [SUPERVISORY SCOPE TBD]",
+      "training": "Complete the Staff Training path and supervised field sessions.",
+      "promotion": "[PROMOTION REQUIREMENTS TBD]",
+      "restrictions": "No implied authority from training completion. [RANK RESTRICTIONS TBD]"
+    }
+  ],
+  "leo": [
+    {
+      "id": "leo-rank-0",
+      "title": "Major — Administration Only",
+      "description": "Major is an Administration-only appointment and is not part of standard training or promotional progression.",
+      "authority": "Administration-only appointment. [APPOINTING AUTHORITY TBD]",
+      "training": "Oversight only as authorized; no training route awards this rank.",
+      "scene": "Review escalated roleplay operations within Administration-delegated scope.",
+      "reporting": "Review escalated command reports and governance concerns.",
+      "supervision": "[ADMINISTRATION-DELEGATED SUPERVISORY SCOPE TBD]"
+    },
+    {
+      "id": "leo-rank-1",
+      "title": "Captain",
+      "description": "Proposed department command coordination role.",
+      "authority": "[COMMAND AUTHORITY TBD]",
+      "training": "Review training records and trainer assignments within [TRAINING APPROVAL LIMITS TBD].",
+      "scene": "Coordinate complex scene supervision when delegated and route major conflicts to Administration.",
+      "reporting": "Review department-level summaries and unresolved command concerns.",
+      "supervision": "[CAPTAIN SUPERVISORY SCOPE TBD]"
+    },
+    {
+      "id": "leo-rank-2",
+      "title": "Lieutenant",
+      "description": "Proposed shift and supervisory coordination role.",
+      "authority": "[COMMAND AUTHORITY TBD]",
+      "training": "Review training records and trainer assignments within [TRAINING APPROVAL LIMITS TBD].",
+      "scene": "Coordinate assigned supervisors across in-game scenes and escalate unresolved issues.",
+      "reporting": "Review shift reports and route policy questions to Captain or authorized command.",
+      "supervision": "[LIEUTENANT SUPERVISORY SCOPE TBD]"
+    },
+    {
+      "id": "leo-rank-3",
+      "title": "Sergeant",
+      "description": "Proposed first-line supervisory role.",
+      "authority": "[COMMAND AUTHORITY TBD]",
+      "training": "Review training records and trainer assignments within [TRAINING APPROVAL LIMITS TBD].",
+      "scene": "Support scene coordination, coaching, and requests for additional command review.",
+      "reporting": "Review assigned patrol reports and document corrective coaching.",
+      "supervision": "[SERGEANT SUPERVISORY SCOPE TBD]"
+    },
+    {
+      "id": "leo-rank-4",
+      "title": "Corporal / FTO",
+      "description": "Proposed experienced officer / trainer role; FTO authority requires separate approval.",
+      "authority": "[COMMAND AUTHORITY TBD]",
+      "training": "Document competency evaluations and corrective coaching after [FTO AUTHORIZATION TBD].",
+      "scene": "Model approved roleplay procedures and supervise assigned training scenarios when authorized.",
+      "reporting": "Submit FTO evaluations, competency observations, and training deficiencies.",
+      "supervision": "[CORPORAL / FTO SUPERVISORY SCOPE TBD]"
+    },
+    {
+      "id": "leo-rank-5",
+      "title": "Trooper / Officer",
+      "description": "Proposed routine department patrol role.",
+      "authority": "[COMMAND AUTHORITY TBD]",
+      "training": "Complete academy and assigned field training; training alone does not grant supervisory authority.",
+      "scene": "Participate in in-game calls and traffic stops; request supervisors when outside approved scope.",
+      "reporting": "Write fictional incident and arrest reports with authorized evidence references.",
+      "supervision": "[OFFICER SUPERVISORY SCOPE TBD]"
+    },
+    {
+      "id": "leo-rank-6",
+      "title": "Recruit / Cadet",
+      "description": "Proposed entry role for supervised academy and field training.",
+      "authority": "[COMMAND AUTHORITY TBD]",
+      "training": "Complete academy and assigned field training; training alone does not grant supervisory authority.",
+      "scene": "Observe and practice assigned ER:LC scenes with an approved trainer.",
+      "reporting": "Complete training notes and participate in FTO evaluation reviews.",
+      "supervision": "No independent command implied. [CADET SUPERVISORY SCOPE TBD]"
+    }
+  ]
+}

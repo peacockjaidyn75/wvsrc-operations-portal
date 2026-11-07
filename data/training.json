@@ -1,0 +1,209 @@
+{
+  "notice": "Major is an Administration-only appointment and is not part of standard training or promotional progression.",
+  "staff": [
+    {
+      "title": "Step 1 — Orientation",
+      "topics": [
+        "Community mission",
+        "Staff expectations",
+        "Professionalism",
+        "Confidentiality",
+        "Chain of command",
+        "Staff-only information",
+        "Account security"
+      ],
+      "exercise": "Identify the escalation route and demonstrate secure handling of a fictional staff report.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Step 2 — Rules & Enforcement",
+      "topics": [
+        "Member rules",
+        "Staff policies",
+        "Enforcement standards",
+        "Neutrality",
+        "Conflict of interest",
+        "Escalation"
+      ],
+      "exercise": "Review a fictional rule violation, identify the applicable draft rule, and explain when to recuse or escalate.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Step 3 — Tickets & Administrative Logs",
+      "topics": [
+        "Ticket handling",
+        "Report documentation",
+        "Administrative logging",
+        "Evidence",
+        "Staff notes",
+        "Case organization"
+      ],
+      "exercise": "Produce a fictional ticket summary with timestamps, evidence references, and an outcome rationale.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Step 4 — Discipline",
+      "topics": [
+        "Verbal warnings",
+        "Game warnings",
+        "Kick-warnings",
+        "Timed bans",
+        "Server bans",
+        "Permanent bans",
+        "Supervisor escalation"
+      ],
+      "exercise": "Select a proposed response using [PENALTY STRUCTURE TBD]. Identify the approving role before taking action.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Step 5 — Scenario Training",
+      "topics": [
+        "Member disrespect",
+        "Friends violating rules",
+        "Incorrect punishment",
+        "Staff misconduct",
+        "Multiple simultaneous reports",
+        "Evidence disputes",
+        "Abuse of permissions"
+      ],
+      "exercise": "For each scenario: identify the issue, preserve context, state the escalation, and write a fictional action log.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Step 6 — Field Training",
+      "topics": [
+        "Supervised tickets",
+        "FTO or approved supervisor",
+        "Documented coaching",
+        "Training report"
+      ],
+      "exercise": "Trainee shadows an FTO or approved supervisor, then handles assigned practice tasks with documented review.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Step 7 — Final Review",
+      "topics": [
+        "[PASSING STANDARD TBD]",
+        "[MINIMUM TRAINING HOURS TBD]",
+        "[APPROVING RANK TBD]"
+      ],
+      "exercise": "Reviewer checks completed reports and unresolved deficiencies. Record the result; completion never grants Major.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    }
+  ],
+  "leo": [
+    {
+      "title": "Academy Orientation",
+      "topics": [
+        "Department organization",
+        "Chain of command",
+        "Professionalism",
+        "Uniform requirements",
+        "Vehicle requirements",
+        "Server rules",
+        "Rank structure"
+      ],
+      "exercise": "Locate the applicable server rules and confirm [UNIFORM REQUIREMENTS TBD] and [VEHICLE REQUIREMENTS TBD].",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Radio Communications",
+      "topics": [
+        "Call signs",
+        "Location updates",
+        "Status updates",
+        "Traffic-stop transmissions",
+        "Backup requests",
+        "Priority traffic",
+        "Emergency traffic",
+        "[WVSRC-APPROVED 10-CODES TBD]"
+      ],
+      "exercise": "Practice: “[CALL SIGN TBD], traffic stop at [IN-GAME LOCATION], [VEHICLE DESCRIPTION], [BACKUP STATUS].” Use plain language until codes are adopted.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Traffic Stops",
+      "topics": [
+        "Observe violation",
+        "Notify radio",
+        "Safely position patrol vehicle",
+        "Approach vehicle",
+        "Introduce officer",
+        "Explain reason for stop",
+        "Request identification",
+        "License check",
+        "Plate check",
+        "Warrant check",
+        "Determine warning/citation/arrest action",
+        "Communicate result",
+        "Clear traffic stop over radio"
+      ],
+      "exercise": "Use these steps in order during a supervised in-game scenario. Checks and outcomes are fictional game interactions subject to server rules.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Calls for Service",
+      "topics": [
+        "Response",
+        "Arrival",
+        "Scene safety",
+        "Backup",
+        "Interviews",
+        "Scene control",
+        "Radio updates",
+        "Supervisor requests",
+        "Clearing scene"
+      ],
+      "exercise": "Simulate an in-game call, explain the roleplay situation, request assistance, and document the fictional outcome.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "High-Risk Incidents",
+      "topics": [
+        "Pursuits",
+        "Felony stops",
+        "Shots fired",
+        "Active threats",
+        "Perimeters",
+        "Backup coordination",
+        "Supervisor response",
+        "De-escalation"
+      ],
+      "exercise": "In a controlled ER:LC scenario, communicate the game location, request a supervisor, coordinate player roles, and seek de-escalation. Pause or end RP if platform or server rules are breached. [PURSUIT RESTRICTIONS TBD]",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Reports",
+      "topics": [
+        "Incident summaries",
+        "Arrest reports",
+        "Evidence references",
+        "Supervisor review",
+        "Professional writing"
+      ],
+      "exercise": "Write a factual fictional incident summary distinguishing observations from assumptions; attach only authorized references.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Field Training",
+      "topics": [
+        "FTO sessions",
+        "Documented evaluations",
+        "Competency review",
+        "Corrective coaching"
+      ],
+      "exercise": "Complete an FTO report after each session, document deficiencies, and plan the next session. [TRAINING PHASES TBD]",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    },
+    {
+      "title": "Final Evaluation",
+      "topics": [
+        "[PASSING SCORE TBD]",
+        "[REQUIRED FIELD TRAINING TIME TBD]",
+        "[COMMAND APPROVAL TBD]"
+      ],
+      "exercise": "Command reviews the documented evaluation. Major is excluded from all academy, FTO, testing, points, hours, and routine progression.",
+      "completion": "Trainer documents observation, coaching, and next step. [COMPLETION STANDARD TBD]"
+    }
+  ]
+}

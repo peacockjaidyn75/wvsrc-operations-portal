@@ -1,0 +1,114 @@
+[
+  {
+    "id": "rule-0",
+    "title": "Community Conduct",
+    "status": "DRAFT",
+    "text": "[COMMUNITY_CONDUCT RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-1",
+    "title": "Respect",
+    "status": "DRAFT",
+    "text": "[RESPECT RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-2",
+    "title": "Harassment",
+    "status": "DRAFT",
+    "text": "[HARASSMENT RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-3",
+    "title": "Roleplay Standards",
+    "status": "DRAFT",
+    "text": "[ROLEPLAY_STANDARDS RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-4",
+    "title": "Fail Roleplay",
+    "status": "DRAFT",
+    "text": "[FAIL_ROLEPLAY RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-5",
+    "title": "Random Deathmatch",
+    "status": "DRAFT",
+    "text": "[RANDOM_DEATHMATCH RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-6",
+    "title": "Vehicle Deathmatch",
+    "status": "DRAFT",
+    "text": "[VEHICLE_DEATHMATCH RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-7",
+    "title": "Metagaming",
+    "status": "DRAFT",
+    "text": "[METAGAMING RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-8",
+    "title": "Exploiting",
+    "status": "DRAFT",
+    "text": "[EXPLOITING RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-9",
+    "title": "Staff Impersonation",
+    "status": "DRAFT",
+    "text": "[STAFF_IMPERSONATION RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-10",
+    "title": "Emergency-Service Scenes",
+    "status": "DRAFT",
+    "text": "[EMERGENCY-SERVICE_SCENES RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-11",
+    "title": "Vehicle Conduct",
+    "status": "DRAFT",
+    "text": "[VEHICLE_CONDUCT RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-12",
+    "title": "Pursuits",
+    "status": "DRAFT",
+    "text": "[PURSUITS RULE WORDING TBD]",
+    "additional": "[PURSUIT RESTRICTIONS TBD]"
+  },
+  {
+    "id": "rule-13",
+    "title": "Moderation",
+    "status": "DRAFT",
+    "text": "[MODERATION RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-14",
+    "title": "Tickets",
+    "status": "DRAFT",
+    "text": "[TICKETS RULE WORDING TBD]",
+    "additional": "[PENALTY STRUCTURE TBD]"
+  },
+  {
+    "id": "rule-15",
+    "title": "Appeals",
+    "status": "DRAFT",
+    "text": "[APPEALS RULE WORDING TBD]",
+    "additional": "[APPEAL PROCESS TBD]"
+  }
+]

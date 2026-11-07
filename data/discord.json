@@ -1,0 +1,33 @@
+{
+  "channels": [
+    {
+      "name": "[CHANNEL NAME TBD]",
+      "category": "[CATEGORY TBD]",
+      "topic": "[TOPIC TBD]",
+      "permissions": "[PERMISSION TBD]",
+      "approvingAuthority": "[APPROVING AUTHORITY TBD]"
+    }
+  ],
+  "warnings": [
+    "Authorized managers must verify inherited permissions before posting.",
+    "This deployment package does not automatically publish policies or procedures.",
+    "Policies publish prospectively only after authorized adoption."
+  ],
+  "checklist": [
+    "Confirm category",
+    "Confirm channel",
+    "Confirm channel topic",
+    "Verify inherited permissions",
+    "Verify explicit permission overrides",
+    "Verify staff access",
+    "Verify Command access",
+    "Verify Administration access",
+    "Verify evidence-channel restrictions",
+    "Verify posting order",
+    "Verify pinned information",
+    "Test using lower-level permissions",
+    "Record deployment date",
+    "Record deploying manager",
+    "Record approving authority"
+  ]
+}

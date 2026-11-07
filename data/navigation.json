@@ -1,0 +1,187 @@
+[
+  [
+    "Overview",
+    [
+      [
+        "dashboard",
+        "Dashboard",
+        "Public"
+      ],
+      [
+        "announcements",
+        "Announcements",
+        "Public"
+      ],
+      [
+        "updates",
+        "Recent Updates",
+        "Staff"
+      ]
+    ]
+  ],
+  [
+    "Documentation",
+    [
+      [
+        "staff-handbook",
+        "Staff Handbook",
+        "Staff"
+      ],
+      [
+        "leo-handbook",
+        "LEO Handbook",
+        "Staff"
+      ],
+      [
+        "rules",
+        "Member Rulebook",
+        "Public"
+      ],
+      [
+        "policies",
+        "Policy Library",
+        "Staff"
+      ],
+      [
+        "sop",
+        "Standard Operating Procedures",
+        "Staff"
+      ]
+    ]
+  ],
+  [
+    "Organization",
+    [
+      [
+        "staff-ranks",
+        "Staff Rank Structure",
+        "Staff"
+      ],
+      [
+        "leo-ranks",
+        "LEO Rank Structure",
+        "Public"
+      ],
+      [
+        "chain",
+        "Chain of Command",
+        "Staff"
+      ],
+      [
+        "roles",
+        "Supervisor & Command Roles",
+        "Command"
+      ]
+    ]
+  ],
+  [
+    "Training",
+    [
+      [
+        "staff-training",
+        "Staff Training",
+        "Staff"
+      ],
+      [
+        "leo-training",
+        "LEO Academy",
+        "Staff"
+      ],
+      [
+        "field-training",
+        "Field Training",
+        "Staff"
+      ],
+      [
+        "fto",
+        "FTO Resources",
+        "Staff"
+      ],
+      [
+        "training-reports",
+        "Training Reports",
+        "Staff"
+      ]
+    ]
+  ],
+  [
+    "Operations",
+    [
+      [
+        "staff-operations",
+        "Staff Operations",
+        "Staff"
+      ],
+      [
+        "leo-operations",
+        "LEO Operations",
+        "Staff"
+      ],
+      [
+        "reports",
+        "Reports",
+        "Staff"
+      ],
+      [
+        "discipline",
+        "Disciplinary Records",
+        "Staff"
+      ],
+      [
+        "blacklist",
+        "Blacklist Records",
+        "Command"
+      ],
+      [
+        "discord",
+        "Discord Deployment",
+        "Command"
+      ]
+    ]
+  ],
+  [
+    "Governance",
+    [
+      [
+        "approvals",
+        "Policy Approvals",
+        "Command"
+      ],
+      [
+        "evidence",
+        "Evidence",
+        "Staff"
+      ],
+      [
+        "changes",
+        "Change Log",
+        "Command"
+      ],
+      [
+        "precedence",
+        "Policy Precedence",
+        "Public"
+      ]
+    ]
+  ],
+  [
+    "Administration",
+    [
+      [
+        "administration",
+        "Administration Resources",
+        "Administration"
+      ],
+      [
+        "major",
+        "Major Administration Information",
+        "Administration"
+      ],
+      [
+        "system",
+        "System Information",
+        "Public"
+      ]
+    ]
+  ]
+]

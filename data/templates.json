@@ -1,0 +1,319 @@
+[
+  {
+    "id": "template-0",
+    "title": "Staff Training Report",
+    "fields": [
+      "Trainee",
+      "Trainer/FTO",
+      "Date",
+      "Session Type",
+      "Duration",
+      "Topics Covered",
+      "Scenarios Completed",
+      "Strengths",
+      "Deficiencies",
+      "Corrective Coaching",
+      "Policy Questions",
+      "Final Result",
+      "Next Required Step",
+      "Trainer Notes",
+      "Trainer Signature"
+    ],
+    "category": "Training"
+  },
+  {
+    "id": "template-1",
+    "title": "LEO Field Training Report",
+    "fields": [
+      "Recruit / Officer",
+      "FTO",
+      "Date",
+      "Training Phase",
+      "Patrol Duration",
+      "Competencies Evaluated",
+      "Radio Communications",
+      "Traffic Stops",
+      "Calls for Service",
+      "Scene Safety",
+      "Detention / Arrest RP",
+      "Pursuits",
+      "Report Writing",
+      "Chain of Command",
+      "Professionalism",
+      "Scenario / Incident Summary",
+      "Strengths",
+      "Deficiencies",
+      "Corrective Coaching",
+      "Overall Evaluation",
+      "Command Review Needed",
+      "FTO Signature"
+    ],
+    "category": "Training"
+  },
+  {
+    "id": "template-2",
+    "title": "Verbal Warning",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-3",
+    "title": "Warning",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-4",
+    "title": "Kick-Warning",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-5",
+    "title": "Timed Ban",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-6",
+    "title": "Server Ban",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-7",
+    "title": "Permanent Ban",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-8",
+    "title": "Staff Discipline",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-9",
+    "title": "Staff Misconduct",
+    "fields": [
+      "Member",
+      "Roblox username",
+      "Discord username",
+      "User ID",
+      "Date",
+      "Time",
+      "Issuing staff",
+      "Reason",
+      "Rule violated",
+      "What happened",
+      "Action taken",
+      "Prior discipline",
+      "Evidence",
+      "Supervisor approval",
+      "Appeal information"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-10",
+    "title": "WVSRC Permanent Ban Report",
+    "fields": [
+      "USER",
+      "ROBLOX",
+      "XBOX",
+      "DISCORD",
+      "DATE",
+      "ISSUING STAFF",
+      "AUTHORIZING STAFF",
+      "REASON",
+      "WHAT HAPPENED",
+      "PROOF",
+      "PRIOR DISCIPLINE",
+      "NOTES"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-11",
+    "title": "WVSRC Verbal Proof Statement",
+    "fields": [
+      "Name / Username",
+      "Role / Rank",
+      "Date / Time",
+      "Please write what happened from your side and what caused you to take this course of action.",
+      "Statement",
+      "Supporting Evidence",
+      "Signature / Confirmation"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-12",
+    "title": "BLACKLIST RECORD #[000]",
+    "fields": [
+      "Roblox Username",
+      "Roblox Display Name",
+      "Roblox User ID",
+      "Xbox Gamertag",
+      "Discord Username",
+      "Discord User ID",
+      "Origin Server Name",
+      "Origin Server ID",
+      "Member Username",
+      "Member ID",
+      "Date Issued",
+      "Reason",
+      "Proof / Evidence",
+      "Issued By",
+      "Authorization",
+      "Review / Appeal Status"
+    ],
+    "category": "Forms"
+  },
+  {
+    "id": "template-13",
+    "title": "Discord Deployment",
+    "fields": [
+      "CHANNEL",
+      "CATEGORY",
+      "TOPIC",
+      "VIEW CHANNEL",
+      "SEND MESSAGES",
+      "ATTACH FILES",
+      "MANAGE MESSAGES",
+      "THREAD PERMISSIONS",
+      "STAFF ACCESS",
+      "COMMAND ACCESS",
+      "ADMINISTRATION ACCESS",
+      "NOTES"
+    ],
+    "category": "Discord"
+  },
+  {
+    "id": "template-14",
+    "title": "Incident / Arrest RP Report",
+    "fields": [
+      "Reporting officer",
+      "Date / Time",
+      "In-game location",
+      "Incident summary",
+      "Fictional arrest details",
+      "Evidence references",
+      "Supervisor review",
+      "Officer signature"
+    ],
+    "category": "Forms"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Field Training Officer",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Supervised practice, coaching, competency documentation, and training report submission.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Corporal",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Sergeant",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Lieutenant",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Captain",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Staff Administrator",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Staff Supervisor",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Senior Operations / Management",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Scene command where applicable, training oversight, report and discipline review, staff accountability, evidence review, policy interpretation, and escalation within assigned authority.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Administration",
+    "description": "Proposed role scope; final delegation requires leadership adoption.",
+    "responsibilities": "Governance review, escalated accountability, evidence review, policy interpretation, training approval, and command decisions within authorized scope.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  },
+  {
+    "title": "Major",
+    "description": "Major is an Administration-only appointment and is not part of standard training or promotional progression.",
+    "responsibilities": "Governance review, escalated accountability, evidence review, policy interpretation, training approval, and command decisions within authorized scope.",
+    "authority": "[ROLE AUTHORITY AND APPROVAL LIMITS TBD]"
+  }
+]
