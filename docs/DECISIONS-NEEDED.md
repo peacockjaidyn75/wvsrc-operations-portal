@@ -1,10 +1,10 @@
 # Leadership decisions needed
 
-This inventory includes every distinct visible TBD token in the shipped content and interface. Repeated policy metadata applies to every policy individually. Draft text, promotion criteria, authority, rules, sanctions, and training standards require adoption; this project does not finalize them.
+The original draft inventory below is retained as a review reference. Version 1.1 replaces member-rule placeholders with summaries of the effective v5.0 rules. Draft staff policies, proposed training and rank details, access routes, and remaining placeholders still require authorized decisions. See [source status](SOURCE-STATUS.md).
 
 Additional decisions: public publication scope for staff-facing material; legal/content ownership and software license; repository owner/name; actual hosting URL; approved Roblox/ER:LC rule references; authentication provider; role permissions; database and evidence storage provider; backups, audit and retention controls. No Discord invite or official contact has been invented.
 
-## Visible placeholders (98)
+## Original draft placeholders
 
 - [ACCOUNTABILITY REVIEW PROCESS TBD] — `data/policies.json`
 - [ADMINISTRATION CONTACTS TBD] — `assets/js/app.js`

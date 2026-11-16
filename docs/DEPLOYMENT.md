@@ -6,6 +6,8 @@ Repository: [peacockjaidyn75/wvsrc-operations-portal](https://github.com/peacock
 
 Configured source: **Deploy from a branch → main → /(root)**. HTTPS is enforced. Commits to main automatically trigger publication.
 
+For this repository, review and test updates on a separate branch. Confirm the public content scope and member links before merging. Keep private Drive links, staff manuals, cases, evidence, and personal data out of repository files and history. Merge to the publishing branch only after deployment authorization. The setup steps below apply if Pages needs to be configured again.
+
 1. Review docs/SECURITY.md and decide which draft material may be public. Replace only decisions leadership has finalized; preserve unresolved placeholders.
 2. Create a GitHub repository, for example wvsrc-operations-portal. GitHub Pages availability for private repositories depends on your plan; published site access is a separate issue. This project assumes public static hosting.
 3. Upload the contents of this folder, including index.html, assets/, data/, .nojekyll, tools/, and docs/. Do not upload a wrapping folder or the delivery ZIP as the website. Include dotfiles. Use main as the branch.

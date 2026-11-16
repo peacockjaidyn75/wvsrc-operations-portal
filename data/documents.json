@@ -1,0 +1,138 @@
+{
+  "statuses": {
+    "effective": "Approved and effective",
+    "pending": "Approved, publication pending",
+    "draft": "Draft",
+    "verify": "Pending verification",
+    "archived": "Archived or superseded",
+    "current": "Current reference"
+  },
+  "documents": [
+    {
+      "id": "community-rules",
+      "title": "Official Community Rules",
+      "version": "5.0",
+      "audience": "Public",
+      "status": "effective",
+      "note": "Controls member conduct, roleplay and enforcement.",
+      "effectiveDate": "October 27, 2026"
+    },
+    {
+      "id": "member-handbook",
+      "title": "Official Member Handbook",
+      "version": "5.0",
+      "audience": "Public",
+      "status": "effective",
+      "note": "Start here for onboarding and session guidance.",
+      "effectiveDate": "October 27, 2026"
+    },
+    {
+      "id": "quick-reference",
+      "title": "Member Quick Reference",
+      "version": "5.0",
+      "audience": "Public",
+      "status": "effective",
+      "note": "Everyday checklist and roleplay terms.",
+      "effectiveDate": "October 27, 2026"
+    },
+    {
+      "id": "green-zones",
+      "title": "Roleplay Standards & Green Zone Guide",
+      "version": "5.0",
+      "audience": "Public",
+      "status": "effective",
+      "note": "Covers FRP, NLR, priorities, Peacetime and neutral areas.",
+      "effectiveDate": "October 27, 2026"
+    },
+    {
+      "id": "department-guide",
+      "title": "Department Participation & Training Guide",
+      "version": "5.0",
+      "audience": "Public",
+      "status": "effective",
+      "note": "Covers authorized roles and roleplay training.",
+      "effectiveDate": "October 27, 2026"
+    },
+    {
+      "id": "member-reporting",
+      "title": "Member Reporting, Rights & Ban Appeals Guide",
+      "version": "5.0",
+      "audience": "Public",
+      "status": "effective",
+      "note": "Report privately. For community-ban appeals, follow the directions in your individual ban report.",
+      "effectiveDate": "October 27, 2026"
+    },
+    {
+      "id": "rules-pending",
+      "title": "Community Rules and Reporting Guide",
+      "version": "5.1",
+      "audience": "Public",
+      "status": "pending",
+      "note": "Owner approval recorded November 4, 2026. Official member notice and effective date remain pending."
+    },
+    {
+      "id": "rules-draft",
+      "title": "Member rules and companion guides",
+      "version": "5.2",
+      "audience": "Public",
+      "status": "draft",
+      "note": "November 5 revision package. Approval and publication pending."
+    },
+    {
+      "id": "archived-rules",
+      "title": "Master Member Rulebook & Community Handbook",
+      "version": "4.1",
+      "audience": "Public",
+      "status": "archived",
+      "note": "Superseded by the effective v5.0 member set."
+    },
+    {
+      "id": "member-access",
+      "title": "Member document access from this portal",
+      "version": "TBD",
+      "audience": "Public",
+      "status": "verify",
+      "note": "Use the official WVSRC Discord document channels or ask authorized staff for the current member copies."
+    },
+    {
+      "id": "governance",
+      "title": "Staff Governance Manual",
+      "version": "4.0",
+      "audience": "Staff",
+      "status": "current",
+      "note": "Controlling staff baseline pending authorized issue of a replacement. Request the current staff copy through your supervisor."
+    },
+    {
+      "id": "staff-pending",
+      "title": "Staff Governance Manual and Staff Handbook",
+      "version": "6.0",
+      "audience": "Staff",
+      "status": "pending",
+      "note": "Owner approval recorded November 4, 2026. Authorized staff issuance remains pending."
+    },
+    {
+      "id": "staff-draft",
+      "title": "Staff governance and handbook revisions",
+      "version": "6.1",
+      "audience": "Staff",
+      "status": "draft",
+      "note": "Approval and staff publication pending."
+    },
+    {
+      "id": "leo-field-guide",
+      "title": "LEO Discord Field Guide",
+      "version": "8.1",
+      "audience": "Staff",
+      "status": "current",
+      "note": "Designated department reference. Request the current department copy through your supervisor."
+    },
+    {
+      "id": "leo-draft",
+      "title": "LEO Discord Field Guide",
+      "version": "8.2",
+      "audience": "Staff",
+      "status": "draft",
+      "note": "Approval and department publication pending."
+    }
+  ]
+}
