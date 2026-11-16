@@ -8,6 +8,11 @@
         "Public"
       ],
       [
+        "start",
+        "Start Here",
+        "Public"
+      ],
+      [
         "announcements",
         "Announcements",
         "Public"
@@ -15,7 +20,7 @@
       [
         "updates",
         "Recent Updates",
-        "Staff"
+        "Public"
       ]
     ]
   ],
@@ -34,7 +39,7 @@
       ],
       [
         "rules",
-        "Member Rulebook",
+        "Member Document Library",
         "Public"
       ],
       [
@@ -124,13 +129,13 @@
       ],
       [
         "discipline",
-        "Disciplinary Records",
+        "Discipline Templates",
         "Staff"
       ],
       [
         "blacklist",
-        "Blacklist Records",
-        "Command"
+        "Blacklist Practice Templates",
+        "Administration"
       ],
       [
         "discord",
@@ -149,7 +154,7 @@
       ],
       [
         "evidence",
-        "Evidence",
+        "Evidence Practice",
         "Staff"
       ],
       [

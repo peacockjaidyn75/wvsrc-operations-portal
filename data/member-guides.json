@@ -1,0 +1,156 @@
+{
+  "member-handbook": [
+    {
+      "id": "first-session",
+      "title": "Your first session",
+      "text": "WVSRC membership is 16+. Roblox and Discord requirements also apply.",
+      "items": [
+        "Find the welcome and verification information in the official WVSRC Discord. Complete the onboarding steps that apply to you.",
+        "Read the Community Rules and check the latest Server Startup (SSU) announcement, session access instructions, Peacetime and Priority status.",
+        "Choose a role you are authorized to use. Civilian roleplay is a starting point while you are applying to a department.",
+        "Start with an ordinary activity such as driving, conversation or business. Give active stops and emergency scenes space.",
+        "Find the current private support or ticket route before you need help."
+      ]
+    },
+    {
+      "id": "discord",
+      "title": "Find information in Discord",
+      "text": "Use the current official server layout and pinned posts. Channel names can change.",
+      "items": [
+        "Welcome and verification areas explain how to get started.",
+        "Member information contains the current rules and guides. Announcements carry session and event updates.",
+        "Department Training Information channels or threads contain applicable training, application and SOP guidance.",
+        "Support and reporting routes handle access questions, rule clarification and private reports."
+      ]
+    },
+    {
+      "id": "responsibilities",
+      "title": "Member rights and responsibilities",
+      "text": "Members may ask sincere questions, report concerns in good faith and expect respectful, nondiscriminatory treatment. Protect private information, follow active restrictions and use only authorized roles and equipment."
+    },
+    {
+      "id": "faq",
+      "title": "Frequently asked questions",
+      "text": "You may belong to another roleplay community. WVSRC rules still apply to conduct that affects its members or operations. A Discord role or an in-character rank alone does not grant moderation permissions."
+    }
+  ],
+  "quick-reference": [
+    {
+      "id": "session-check",
+      "title": "Before joining",
+      "text": "Check the current session notice, your role and equipment, and whether Peacetime or a Priority restriction applies.",
+      "items": [
+        "Read the current Community Rules. WVSRC membership is 16+.",
+        "Use an authorized role. Start as a civilian if you have no department assignment.",
+        "Find the private support or reporting route in the official Discord."
+      ]
+    },
+    {
+      "id": "scene-check",
+      "title": "During a scene",
+      "text": "Keep the scene believable, acknowledge significant consequences and give other players time to respond. Keep out-of-character information out of your character’s decisions.",
+      "items": [
+        "Green Zones protect newly arrived, respawning and other neutral players.",
+        "The New Life Rule limits returning to the old scene or using knowledge lost after a qualifying death or respawn.",
+        "Stay in unresolved scenes. Report a genuine disconnect when reasonably possible."
+      ]
+    },
+    {
+      "id": "help",
+      "title": "When you need help",
+      "text": "Use the official private route for a report or grievance. If you receive a community ban, follow the instructions in your ban report."
+    }
+  ],
+  "green-zones": [
+    {
+      "id": "realism",
+      "title": "Believable scenes",
+      "text": "A major crash should affect how the character drives and responds. Use only information your character learned in roleplay. Describe attempted actions and let the other player respond before treating an outcome as settled."
+    },
+    {
+      "id": "neutral-areas",
+      "title": "Green Zones",
+      "text": "Game join points, team spawns, respawn areas, hospitals and officially designated neutral areas are protected. A player there is not automatically part of a nearby scene. Normal roleplay resumes when the player voluntarily leaves or clearly rejoins roleplay.",
+      "items": [
+        "If a pursuit passes a spawn point, treat unrelated arrivals as neutral.",
+        "If an existing scene reaches a hospital, protect unrelated arrivals and ask authorized staff if the ongoing interaction is unclear."
+      ]
+    },
+    {
+      "id": "new-life",
+      "title": "New Life Rule and scene continuity",
+      "text": "After a qualifying death or respawn, stay out of the previous scene and avoid using knowledge lost under the New Life Rule. Deliberate resets, team changes and disconnects cannot be used to evade consequences or change a scene. Report genuine technical problems when reasonably possible."
+    },
+    {
+      "id": "session-status",
+      "title": "Peacetime and Priority status",
+      "text": "Use the latest authorized session announcement.",
+      "items": [
+        "Peacetime allows routine nonviolent roleplay. A major violent or high-resource scene requires an announced authorized exception.",
+        "Priority Available allows a major scenario only when the announced conditions are met.",
+        "Priority Active means a major scene is underway. A competing major scene needs authorization.",
+        "Priority Cooldown stays in effect until it ends or an authorized exception is announced."
+      ]
+    }
+  ],
+  "department-guide": [
+    {
+      "id": "participation",
+      "title": "Choose an authorized role",
+      "text": "Civilian roleplay is open to members without specialized assignments. LEO, Fire/EMS, DOT/service and specialty roles follow their own authorization and training requirements. Check your rank, callsign, uniform, vehicle and equipment before participating."
+    },
+    {
+      "id": "training",
+      "title": "Find training and join a department",
+      "text": "Read the latest training instructions and SOPs in the department’s official Discord area. Follow its application process, complete the required evaluations and confirm what you are authorized to use. The Department Head maintains training information. If the position is vacant, the Senior Management Division collectively oversees that work."
+    },
+    {
+      "id": "authority",
+      "title": "Who directs what",
+      "text": "Session hosts announce server-wide status. Department command directs its assigned personnel. Scene leads coordinate in-character actions. Moderators address out-of-character rule and safety concerns. Trainers and FTOs evaluate participants within their assignments."
+    },
+    {
+      "id": "major",
+      "title": "Major appointments",
+      "text": "Major is Administration-only. Academy completion, FTO certification, testing, points, training hours and ordinary promotions do not confer eligibility. Department training is for Roblox/ER:LC roleplay."
+    },
+    {
+      "id": "concerns",
+      "title": "Department questions and concerns",
+      "text": "Ask the department for clarification about an application, assignment, evaluation or promotion. Use private reporting for suspected misconduct, discrimination, retaliation or abuse of authority. Formal community-ban appeals follow the individual ban report."
+    }
+  ],
+  "member-reporting": [
+    {
+      "id": "request-type",
+      "title": "Choose a request type",
+      "text": "Use private support for rule clarification or access problems. Use the designated reporting route for suspected member misconduct or concerns about staff conduct, retaliation or unfair treatment."
+    },
+    {
+      "id": "incident",
+      "title": "Submit a private report",
+      "text": "Use the current WVSRC reporting route in Discord. Keep private tickets, personal information and evidence out of public chat.",
+      "items": [
+        "Give the approximate date, time and time zone, the server or channel, and the usernames involved if known.",
+        "Describe what you personally observed. Identify assumptions and secondhand information separately.",
+        "Preserve original evidence and include relevant material if available. A video is not required to raise a good-faith concern.",
+        "Explain what help you are requesting. Keep originals secure and avoid retaliation."
+      ]
+    },
+    {
+      "id": "review",
+      "title": "What to expect after reporting",
+      "text": "Review may involve an initial assessment, evidence collection, a chance to respond where practical and a documented outcome. Members can raise good-faith concerns and request clarification. Review should use reliable evidence, protect privacy and address conflicts of interest where practical."
+    },
+    {
+      "id": "appeals",
+      "title": "Community-ban appeals",
+      "text": "Follow the submission method and deadline, if any, stated in your individual ban report. Include the details and evidence it requests and explain why the decision should be reconsidered. Warnings, session kicks, training assessments and routine department decisions do not automatically carry formal appeal rights."
+    },
+    {
+      "id": "evidence",
+      "title": "Evidence and AI",
+      "text": "Keep originals intact. Avoid misleading edits, fabricated screenshots, impersonation and publication of confidential records. Disclose material AI assistance when applicable and verify evidence independently."
+    }
+  ]
+}

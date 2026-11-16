@@ -1,114 +1,102 @@
 [
   {
-    "id": "rule-0",
-    "title": "Community Conduct",
-    "status": "DRAFT",
-    "text": "[COMMUNITY_CONDUCT RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-1",
+    "title": "Respect and civility",
+    "text": "Treat members, staff, and visitors respectfully. Constructive criticism is allowed."
   },
   {
-    "id": "rule-1",
-    "title": "Respect",
-    "status": "DRAFT",
-    "text": "[RESPECT RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-2",
+    "title": "Harassment and discrimination",
+    "text": "Harassment, intimidation, discriminatory abuse, and coordinated targeting are prohibited."
   },
   {
-    "id": "rule-2",
-    "title": "Harassment",
-    "status": "DRAFT",
-    "text": "[HARASSMENT RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-3",
+    "title": "Privacy and safety",
+    "text": "Protect personal information and boundaries. Use official channels for serious safety concerns."
   },
   {
-    "id": "rule-3",
-    "title": "Roleplay Standards",
-    "status": "DRAFT",
-    "text": "[ROLEPLAY_STANDARDS RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-4",
+    "title": "Appropriate content and roleplay",
+    "text": "Keep chat, media, profiles, and roleplay appropriate. Sexual or suggestive roleplay is prohibited."
   },
   {
-    "id": "rule-4",
-    "title": "Fail Roleplay",
-    "status": "DRAFT",
-    "text": "[FAIL_ROLEPLAY RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-5",
+    "title": "Discord, chat, and voice",
+    "text": "Use channels for their intended purpose and avoid spam, disruptive audio, and unnecessary mass pings."
   },
   {
-    "id": "rule-5",
-    "title": "Random Deathmatch",
-    "status": "DRAFT",
-    "text": "[RANDOM_DEATHMATCH RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-6",
+    "title": "Scams, impersonation, and advertising",
+    "text": "Never request credentials or impersonate staff. Advertise only with permission or in an approved channel."
   },
   {
-    "id": "rule-6",
-    "title": "Vehicle Deathmatch",
-    "status": "DRAFT",
-    "text": "[VEHICLE_DEATHMATCH RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-7",
+    "title": "Eligibility and platform rules",
+    "text": "WVSRC membership is 16+. Follow platform requirements and active restrictions."
   },
   {
-    "id": "rule-7",
-    "title": "Metagaming",
-    "status": "DRAFT",
-    "text": "[METAGAMING RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-8",
+    "title": "Realistic roleplay (FRP)",
+    "text": "Keep actions believable and acknowledge injuries, risks, and consequences."
   },
   {
-    "id": "rule-8",
-    "title": "Exploiting",
-    "status": "DRAFT",
-    "text": "[EXPLOITING RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-9",
+    "title": "Metagaming and powergaming",
+    "text": "Keep out-of-character information out of scenes and give others a reasonable opportunity to respond."
   },
   {
-    "id": "rule-9",
-    "title": "Staff Impersonation",
-    "status": "DRAFT",
-    "text": "[STAFF_IMPERSONATION RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-10",
+    "title": "Scene respect and New Life Rule (NLR)",
+    "text": "After a qualifying death or respawn, avoid influencing the prior scene or using knowledge lost under NLR."
   },
   {
-    "id": "rule-10",
-    "title": "Emergency-Service Scenes",
-    "status": "DRAFT",
-    "text": "[EMERGENCY-SERVICE_SCENES RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-11",
+    "title": "Random or unjustified violence (RDM and VDM)",
+    "text": "Random deathmatch, deliberate vehicle assaults, and unjustified escalation are prohibited in roleplay."
   },
   {
-    "id": "rule-11",
-    "title": "Vehicle Conduct",
-    "status": "DRAFT",
-    "text": "[VEHICLE_CONDUCT RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-12",
+    "title": "Combat logging and reset abuse",
+    "text": "Stay in unresolved scenes. Report genuine connection issues when reasonably possible."
   },
   {
-    "id": "rule-12",
-    "title": "Pursuits",
-    "status": "DRAFT",
-    "text": "[PURSUITS RULE WORDING TBD]",
-    "additional": "[PURSUIT RESTRICTIONS TBD]"
+    "id": "member-rule-13",
+    "title": "Priority and Peacetime",
+    "text": "Check official session announcements before starting a major scene. Routine nonviolent roleplay may continue during Peacetime."
   },
   {
-    "id": "rule-13",
-    "title": "Moderation",
-    "status": "DRAFT",
-    "text": "[MODERATION RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-14",
+    "title": "Criminal and emergency-services roleplay",
+    "text": "Allow reasonable interaction during stops, detentions, and emergency scenes. Avoid baiting emergency services."
   },
   {
-    "id": "rule-14",
-    "title": "Tickets",
-    "status": "DRAFT",
-    "text": "[TICKETS RULE WORDING TBD]",
-    "additional": "[PENALTY STRUCTURE TBD]"
+    "id": "member-rule-15",
+    "title": "Vehicles, pursuits, and collisions",
+    "text": "Drive realistically and account for significant collision damage."
   },
   {
-    "id": "rule-15",
-    "title": "Appeals",
-    "status": "DRAFT",
-    "text": "[APPEALS RULE WORDING TBD]",
-    "additional": "[APPEAL PROCESS TBD]"
+    "id": "member-rule-16",
+    "title": "Green Zones and restricted areas",
+    "text": "Players in a protected neutral area cannot be forced into a scene. Normal roleplay resumes when they voluntarily leave or clearly re-enter roleplay."
+  },
+  {
+    "id": "member-rule-17",
+    "title": "Authorized roles and equipment",
+    "text": "Use only roles, ranks, callsigns, uniforms, vehicles, and equipment you are authorized to use."
+  },
+  {
+    "id": "member-rule-18",
+    "title": "Official instructions",
+    "text": "Follow reasonable rule-based directions from authorized people. Staff moderation and in-character command are separate."
+  },
+  {
+    "id": "member-rule-19",
+    "title": "Exploits, disruption, and abuse of authority",
+    "text": "Cheats, coordinated disruption, and misuse of elevated permissions are prohibited."
+  },
+  {
+    "id": "member-rule-20",
+    "title": "Honest reporting and evidence",
+    "text": "Report in good faith. Fabricating allegations, falsifying evidence, and retaliating against participants are prohibited."
   }
 ]
