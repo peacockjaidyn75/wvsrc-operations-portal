@@ -1,5 +1,21 @@
 # Version 1.0 verification
 
+## Version 1.2 reading pages
+
+- Chrome opened all six member reading pages from the Member Document Library at 320 px and 1366 px. Each page showed its version and effective date without horizontal overflow.
+- Contents links focused the target section, the old rule link opened its replacement section, and filtered search reached individual rules, companion sections and the existing governance register.
+- Print styling retained reading sections and hid the contents and related navigation. Existing navigation, template copy, local form drafts, evidence practice and checklist checks also passed.
+- The structural check rendered 37 pages and validated 186 internal links.
+
+## Version 1.1 review · November 11, 2026
+
+- The published HTTPS page returned 200 and its application JavaScript matched the checkout of `main` at `6580b87`. Repository documentation identifies `main / (root)` as the Pages source. The unauthenticated Pages settings API returned 404.
+- The local Version 1.1 structural check passed. Chrome exercised all 30 navigation routes at 1366 px and 320 px without horizontal page overflow. Mobile same-page navigation and Escape closed the menu, and Escape returned focus to its toggle.
+- Filtered searches opened a member rule and the staff governance version entry, with focus moved to the target. All 15 blank templates copied their expected text. A fictional form draft reopened, the Discord checklist persisted through reload, and a fictional evidence reference saved. Public updates displayed the verified partnership status. Chrome reported no uncaught application exceptions.
+- The local review used fictional inputs. Live Drive sharing, Discord permissions, official report paths, and a full assistive-technology audit remain outside these checks.
+
+## Original release verification
+
 Verified November 7, 2026. Tests used fictional local examples only. The project was uploaded to [https://github.com/peacockjaidyn75/wvsrc-operations-portal](https://github.com/peacockjaidyn75/wvsrc-operations-portal) and deployed through GitHub Pages at [https://peacockjaidyn75.github.io/wvsrc-operations-portal/](https://peacockjaidyn75.github.io/wvsrc-operations-portal/).
 
 | Check | Result and evidence |

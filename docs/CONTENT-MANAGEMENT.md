@@ -1,13 +1,15 @@
 # Content management
 
-All seeded policy and rule content is DRAFT. The owner must approve the actual wording, authority, dates, and publication scope before adoption. No content is marked Approved or Published by default.
+The public reading pages summarize the effective v5.0 member documents. The seeded staff policies and practice curricula remain drafts. Verify the wording, version, audience, effective date and publication status before editing member summaries or document metadata.
 
 ## Files
 
 - policies.json: add unique id, number, title, version, effectiveDate, status, owner, approvingAuthority, lastUpdated, and full text. Multi-paragraph strings may use escaped newline characters.
 - ranks.json: arrays are ordered highest to lowest. Keep management above Administrator. Department titles may change; Major must retain the Administration-only restriction everywhere.
 - training.json: edit module titles, topics, exercise, and completion criteria. Major is excluded from all training and promotional paths.
-- rules.json: public-facing rules only; never include restricted enforcement procedures here.
+- rules.json: summaries of the effective community rules in source order. Keep rule IDs stable for direct links.
+- documents.json: public-safe titles, versions, dates, audiences, status keys and notes. Keep private source links and unpublished text in authorized systems.
+- member-guides.json: companion reading sections keyed by document ID. Preserve section IDs for direct links and search results.
 - templates.json: fields define both copy output and the editable local form. Keep IDs stable. Editing field order can make older local form drafts incompatible; export before changing and clear incompatible drafts afterward.
 - discord.json: edit channel plan, warnings, and checklist. Checklist changes can invalidate saved checkbox positions; reset local checklists after changes.
 - roles.json and navigation.json: role scope and intended audience labels. Labels never enforce access.
