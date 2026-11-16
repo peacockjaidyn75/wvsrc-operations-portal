@@ -2,9 +2,9 @@
 
 [Open the live portal](https://peacockjaidyn75.github.io/wvsrc-operations-portal/) · [GitHub repository](https://github.com/peacockjaidyn75/wvsrc-operations-portal)
 
-Published through GitHub Pages from **main / (root)** with HTTPS enforced.
+The existing live build is served over HTTPS. Repository documentation records **main / (root)** as the publishing source. Version 1.2 is the public member release.
 
-A complete, buildless operations portal for the West Virginia State Roleplay Community. Designed for GitHub Pages and a growing community of 200+ members. Version 1.0 contains proposed draft documentation and local practice tools, ready for leadership review.
+A buildless operations portal for the West Virginia State Roleplay Community. Version 1.2 gives the six effective v5.0 member documents dedicated reading pages with section links, search and print layouts. The reading pages summarize the authorized member editions.
 
 ## Features
 
@@ -14,7 +14,7 @@ A complete, buildless operations portal for the West Virginia State Roleplay Com
 - 20 expandable draft staff policies with version, owner, effective date, approving authority, status, number, and last-updated fields.
 - Editable Staff and LEO ranks; management sits above Administrator. Major is always an Administration-only appointment, excluded from training and normal promotion.
 - Seven Staff training modules and eight ER:LC / Roblox LEO modules. These are fictional roleplay resources, not professional certification.
-- Separate public member rulebook, supervisor roles, policy precedence, and read-only policy status register.
+- Public rule summaries, onboarding, FAQs, supervisor roles, policy precedence, and a read-only document status and version register.
 - 15 copyable report/form templates, editable local form drafts, evidence-reference and change trackers with JSON export, saved deployment checklist, and deletion confirmations.
 - No runtime dependencies, external fonts, analytics, credentials, or build pipeline.
 
@@ -42,7 +42,9 @@ data/navigation.json       Navigation groups and audience labels
 data/policies.json         Draft staff policies and metadata
 data/ranks.json            Editable Staff and LEO hierarchies
 data/training.json         Staff and LEO curricula
-data/rules.json            Separate public member-rule drafts
+data/rules.json            Summaries of the 20 effective v5.0 member rules
+data/documents.json        Public-safe document status and version metadata
+data/member-guides.json    On-site sections for the five member companion guides
 data/templates.json        Report and deployment form fields
 data/discord.json          Channel placeholders and manager checklist
 data/roles.json            Supervisor and command descriptions
@@ -52,17 +54,18 @@ docs/DECISIONS-NEEDED.md    Full visible TBD inventory
 docs/SECURITY.md            Public hosting and restricted-data limits
 docs/CONTRIBUTING.md        Contribution requirements
 docs/QA.md                 Verification results and limitations
+docs/SOURCE-STATUS.md      Verified references and publication gaps
 tools/serve.cjs             Dependency-free local server
 tools/check.cjs             Structural and content checks
 ```
 
 ## Edit content and placeholders
 
-Edit UTF-8 JSON under data/. Preserve stable IDs so search deep links continue working. Policy text is proposed, never finalized by this project. Visible bracketed TBD values must remain until leadership makes and records a decision. See [content management](docs/CONTENT-MANAGEMENT.md) and the exhaustive [decision inventory](docs/DECISIONS-NEEDED.md).
+Edit UTF-8 JSON under data/. Preserve stable IDs so search deep links continue working. Update member summaries and document statuses against authorized sources. The sample staff policies remain draft. Resolve bracketed TBD values only after leadership records a decision. See [content management](docs/CONTENT-MANAGEMENT.md), [source status](docs/SOURCE-STATUS.md), and [decisions needed](docs/DECISIONS-NEEDED.md).
 
 ## Deploy to GitHub Pages
 
-Upload the **contents** of this project folder to the root of a GitHub repository. In **Settings → Pages → Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then Save. No build or GitHub Actions workflow is required. See [deployment](docs/DEPLOYMENT.md) for the complete steps, verification, and rollback.
+Review updates on a separate branch. Merging or pushing to the configured publishing branch can publish the update automatically. Obtain deployment authorization before merging to main or changing Pages settings. See [deployment](docs/DEPLOYMENT.md) for verification and rollback.
 
 ## Security and storage
 
@@ -76,4 +79,4 @@ Replace the small storage adapter in assets/js/app.js with an authenticated API.
 
 ## Validation
 
-Run `node tools/check.cjs` for structural, JSON, route, template, draft-status, and Major-rule checks. Browser verification is documented in [QA](docs/QA.md). The repository is published at the live URL above. See docs/QA.md for the deployment verification. All policy adoption and leadership placeholders remain drafts.
+Run `node tools/check.cjs` for structural, JSON, route, template, draft-status, and Major-rule checks. See [QA](docs/QA.md) for browser verification and [source status](docs/SOURCE-STATUS.md) for publication gaps.
